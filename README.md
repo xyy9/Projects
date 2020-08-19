@@ -9,7 +9,7 @@
 
 > 影像处理： 简易自拍处理[Camera]      `Python`
 
-> 游戏： 十滴水     `Java`
+> 游戏： 十滴水[DroofWater]     `Java`
 
 > 游戏： MIPS指令迷宫游戏       `MIPS`
 
