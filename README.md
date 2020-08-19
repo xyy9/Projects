@@ -5,7 +5,7 @@
 
 > 绘图： 3D画图[xyy9/collegepage/3D动画/绘图]   `C++`
 
-> Android在线聊天Server&Client[Socket]      `Java`
+> 在线聊天Server&Client[Socket]      `Java`  `Android`
 
 > 影像处理： 简易自拍处理[Camera]      `Python`
 
